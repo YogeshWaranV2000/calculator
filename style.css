@@ -1,0 +1,14 @@
+.container{
+  border: 5px solid #88af1bad;
+  height: 80%;
+  width: 50%;
+  background-color: #91d694;
+}
+
+.button{
+  background-color: rgb(100, 199, 212);
+}
+
+.body{
+  background-color: #022a37;
+}
